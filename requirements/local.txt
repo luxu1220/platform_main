@@ -1,0 +1,19 @@
+-r base.txt
+
+ipython
+isort
+flake8
+black
+pre-commit
+factory-boy
+click
+gqlgen
+pytest
+pytest-asyncio
+pytest-env
+Faker
+allure-pytest
+sqlalchemy-utils
+pytest-cov
+openpyxl==3.0.7
+pytest-mock==3.6.1
